@@ -4,7 +4,7 @@ import click
 
 @click.command()
 def hello():
-    click.echo('Hello World!')
+    click.echo('This is my docker project')
 
 if __name__ == '__main__':
     hello()
